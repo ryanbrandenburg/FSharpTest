@@ -1,12 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
-
-  <PropertyGroup>
-    <RuntimeFrameworkVersion>3.0.0-preview1-26810-02</RuntimeFrameworkVersion>
-    <MicrosoftNETSdkRazorPackageVersion>3.0.0-alpha1-10275</MicrosoftNETSdkRazorPackageVersion>
-    <BundledAspNetCoreAppTargetFrameworkVersion>3.0</BundledAspNetCoreAppTargetFrameworkVersion>
-    <BundledAspNetCoreAppPackageVersion>3.0.0-alpha1-10275</BundledAspNetCoreAppPackageVersion>
-  </PropertyGroup>
-
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <MvcRazorCompileOnPublish>true</MvcRazorCompileOnPublish>
